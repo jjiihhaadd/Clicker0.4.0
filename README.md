@@ -6,3 +6,5 @@ Coded in python.
 Converted to EXE using AUTO_PY_TO_EXE.
 
 A CLI based AutoClicker.
+
+# CPS 100+
